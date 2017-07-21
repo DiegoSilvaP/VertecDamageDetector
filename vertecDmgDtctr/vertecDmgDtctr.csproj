@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EmguCV.3.0.0\build\EmguCV.props" Condition="Exists('..\packages\EmguCV.3.0.0\build\EmguCV.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB579BA2-3DBF-4538-A942-C6114FAD3385}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>vertecDmgDtctr</RootNamespace>
+    <AssemblyName>vertecDmgDtctr</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Contrib, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.Contrib.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Cuda, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.Cuda.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2015">
+      <HintPath>C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\Emgu.CV.DebuggerVisualizers.VS2015.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.ML, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.ML.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.OCR, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.OCR.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Shape, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.Shape.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Stitching, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.Stitching.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.Superres, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.Superres.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI.GL, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.UI.GL.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.VideoStab, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.CV.VideoStab.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util, Version=3.0.0.2157, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmguCV.3.0.0\lib\net451\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=3.1.9.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.3.1.9\lib\net451\Npgsql.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.1.1.2225.0\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.GLControl.1.1.2225.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="abrirPuerta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="abrirPuerta.Designer.cs">
+      <DependentUpon>abrirPuerta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acercaDe.Designer.cs">
+      <DependentUpon>acercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\conexion.cs" />
+    <Compile Include="Clases\DeviceInfo.cs" />
+    <Compile Include="Clases\Log.cs" />
+    <Compile Include="Clases\restServices.cs" />
+    <Compile Include="Clases\SerialCom.cs" />
+    <Compile Include="Clases\Time.cs" />
+    <Compile Include="Clases\User.cs" />
+    <Compile Include="cnctarTel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cnctarTel.Designer.cs">
+      <DependentUpon>cnctarTel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DesconectarDisp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesconectarDisp.Designer.cs">
+      <DependentUpon>DesconectarDisp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="errorDeLogueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="errorDeLogueo.Designer.cs">
+      <DependentUpon>errorDeLogueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="esperaUnMomento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="esperaUnMomento.Designer.cs">
+      <DependentUpon>esperaUnMomento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finalScrnSvr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finalScrnSvr.Designer.cs">
+      <DependentUpon>finalScrnSvr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="instrucciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="instrucciones.Designer.cs">
+      <DependentUpon>instrucciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logueo.Designer.cs">
+      <DependentUpon>logueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoTelefonoCabina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoTelefonoCabina.Designer.cs">
+      <DependentUpon>NoTelefonoCabina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="procFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="procFinal.Designer.cs">
+      <DependentUpon>procFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reloj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reloj.Designer.cs">
+      <DependentUpon>reloj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="resultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resultado.Designer.cs">
+      <DependentUpon>resultado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="retirarDispositivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="retirarDispositivo.Designer.cs">
+      <DependentUpon>retirarDispositivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="screenSaver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screenSaver.Designer.cs">
+      <DependentUpon>screenSaver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelefonoEnCabina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelefonoEnCabina.Designer.cs">
+      <DependentUpon>TelefonoEnCabina.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="abrirPuerta.resx">
+      <DependentUpon>abrirPuerta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acercaDe.resx">
+      <DependentUpon>acercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cnctarTel.resx">
+      <DependentUpon>cnctarTel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesconectarDisp.resx">
+      <DependentUpon>DesconectarDisp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="errorDeLogueo.resx">
+      <DependentUpon>errorDeLogueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="esperaUnMomento.resx">
+      <DependentUpon>esperaUnMomento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finalScrnSvr.resx">
+      <DependentUpon>finalScrnSvr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="instrucciones.resx">
+      <DependentUpon>instrucciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logueo.resx">
+      <DependentUpon>logueo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoTelefonoCabina.resx">
+      <DependentUpon>NoTelefonoCabina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="procFinal.resx">
+      <DependentUpon>procFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reloj.resx">
+      <DependentUpon>reloj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resultado.resx">
+      <DependentUpon>resultado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="retirarDispositivo.resx">
+      <DependentUpon>retirarDispositivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screenSaver.resx">
+      <DependentUpon>screenSaver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TelefonoEnCabina.resx">
+      <DependentUpon>TelefonoEnCabina.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button3.BackgroundImage.bmp" />
+    <None Include="bin\Debug\recursos\analiwall.png" />
+    <None Include="bin\Debug\recursos\btRechazar.png" />
+    <Content Include="License-LGPL.txt" />
+    <None Include="Resources\%24this.BackgroundImage.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EmguCV.3.0.0\build\EmguCV.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EmguCV.3.0.0\build\EmguCV.props'))" />
+    <Error Condition="!Exists('..\packages\EmguCV.3.0.0\build\EmguCV.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EmguCV.3.0.0\build\EmguCV.targets'))" />
+  </Target>
+  <Import Project="..\packages\EmguCV.3.0.0\build\EmguCV.targets" Condition="Exists('..\packages\EmguCV.3.0.0\build\EmguCV.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

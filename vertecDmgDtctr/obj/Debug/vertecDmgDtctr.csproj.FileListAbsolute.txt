@@ -1,0 +1,241 @@
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe.config
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.pdb
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csprojResolveAssemblyReference.cache
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.Properties.Resources.resources
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.GenerateResource.Cache
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.exe
+D:\Documentos del Admin. Matrix\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.pdb
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe.config
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.exe
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.pdb
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.pdb
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csprojResolveAssemblyReference.cache
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.screenSaver.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.Properties.Resources.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.GenerateResource.Cache
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.logueo.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.errorDeLogueo.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Npgsql.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Npgsql.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.reloj.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.instrucciones.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.cnctarTel.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.procFinal.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.Util.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\ZedGraph.dll
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.Util.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.vertecDmgDtctr.exe.config
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.resultado.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.finalScrnSvr.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.esperaUnMomento.resources
+D:\Projects\Proyecto final de vertec\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.acercaDe.resources
+D:\Projects\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe.config
+D:\Projects\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.exe
+D:\Projects\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.pdb
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe.config
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.pdb
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.dll
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Npgsql.dll
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\ZedGraph.dll
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.GL.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.Util.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Npgsql.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csprojResolveAssemblyReference.cache
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.vertecDmgDtctr.exe.config
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.acercaDe.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.cnctarTel.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.errorDeLogueo.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.esperaUnMomento.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.finalScrnSvr.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.instrucciones.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.logueo.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.procFinal.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.reloj.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.resultado.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.screenSaver.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.Properties.Resources.resources
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.GenerateResource.Cache
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.exe
+D:\_________________________________________K R O N O S _______________________________________\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe.config
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Npgsql.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\ZedGraph.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.xml
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Npgsql.xml
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\ZedGraph.xml
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\de\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\es\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\fr\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\hu\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\it\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\ja\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\pt\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\ru\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\sk\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\sv\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\tr\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csprojResolveAssemblyReference.cache
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.acercaDe.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.cnctarTel.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.errorDeLogueo.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.esperaUnMomento.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.finalScrnSvr.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.instrucciones.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.logueo.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.procFinal.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.reloj.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.resultado.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.screenSaver.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.Properties.Resources.resources
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.GenerateResource.Cache
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.exe
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.Util.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\OpenTK.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\OpenTK.GLControl.dll
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\Emgu.Util.pdb
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\OpenTK.xml
+C:\Kronos\vertecFinalSinMod\vertecDmgDtctr\vertecDmgDtctr\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe.config
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.exe
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\vertecDmgDtctr.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.GL.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.Util.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Npgsql.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\OpenTK.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\OpenTK.GLControl.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\ZedGraph.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Contrib.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Cuda.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.ML.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.OCR.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Shape.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Stitching.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.Superres.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.UI.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.CV.VideoStab.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Emgu.Util.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Npgsql.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\OpenTK.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\ZedGraph.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\de\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\es\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\it\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csprojResolveAssemblyReference.cache
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.acercaDe.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.cnctarTel.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.errorDeLogueo.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.esperaUnMomento.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.finalScrnSvr.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.instrucciones.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.logueo.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.procFinal.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.reloj.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.resultado.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.screenSaver.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.Properties.Resources.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.csproj.GenerateResource.Cache
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.exe
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.pdb
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.NoTelefonoCabina.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.TelefonoEnCabina.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.abrirPuerta.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.retirarDispositivo.resources
+F:\Projects\KRONOS\ComandosAnimacionesFinal\vertecDmgDtctr\obj\Debug\vertecDmgDtctr.DesconectarDisp.resources
